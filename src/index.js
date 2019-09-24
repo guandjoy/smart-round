@@ -10,7 +10,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <a href="https://github.com/guandjoy/sequence-of-polygons">
+      <a href="https://github.com/guandjoy/smart-round">
         <GitHubLogo />
       </a>
       <Caption topic="Smart round" />
