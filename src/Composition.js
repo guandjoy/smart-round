@@ -58,7 +58,7 @@ function Composition(props) {
   const pathAttributes = {
     stroke: "white",
     fill: "transparent",
-    strokeWidth: "3px",
+    strokeWidth: "2px",
     vectorEffect: "non-scaling-stroke"
   };
 
