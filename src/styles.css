@@ -84,17 +84,14 @@ a {
   }
 }
 
-@media only screen and (max-height: 820px), (max-width: 820px) {
-  #github-logo {
-    width: 36px;
-    transform: translate(-100%, 28%);
-  }
-}
-
 @media only screen and (max-height: 820px) and (min-height: 480px),
   (max-width: 590px) and (min-width: 480px) {
   h1 {
     font-size: 0.8rem;
+  }
+  #github-logo {
+    width: 36px;
+    transform: translate(-100%, 28%);
   }
 }
 
@@ -102,4 +99,9 @@ a {
   h1 {
     font-size: 0.6rem;
   }
+  #github-logo {
+    width: 32px;
+    transform: translate(-100%, 28%);
+  }
 }
+
